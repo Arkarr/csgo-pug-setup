@@ -1,7 +1,5 @@
-csgo-pug-setup
+ASteambot PUG and csgo-pug-setup
 ===========================
-
-[![Build status](http://ci.splewis.net/job/csgo-pug-setup/badge/icon)](http://ci.splewis.net/job/csgo-pug-setup/)
 
 This is a useful plugin for managing pug games, especially **10 mans**/gathers. It allows a player to type **.setup** into chat and select (from a menu):
 - how to choose the teams (players do it manually, random teams, captains select teams)
@@ -14,15 +12,11 @@ Part of being lightweight is doing nothing that can interfere with the server's 
 
 The goal is to make setup easier for people, not provide a comprehensive pug platform. Please keep this and the principle of **keep it simple, stupid** in mind when making any suggestions.
 
-Also see the [AlliedModders thread](https://forums.alliedmods.net/showthread.php?t=244114).
-
 #### Some alternatives
 - [PUG Mod](https://forums.alliedmods.net/showthread.php?p=1742753) (relatively plain - but no captain selection)
 - [WarMod](https://forums.alliedmods.net/showthread.php?t=225474) (does pretty much everything, but generally intended for matches, more complex)
 
-
 ## Download
-You should be able to get the most recent download from https://github.com/splewis/csgo-pug-setup/releases.
 
 This plugin optionally supports the [Updater](https://forums.alliedmods.net/showthread.php?t=169095) plugin, which will automatically update to backwards compatible releases. This will only update the base plugin and any change that required breakage will not auto-update, so you should still check here for newer versions.
 
